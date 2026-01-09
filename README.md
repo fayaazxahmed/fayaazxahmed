@@ -2,7 +2,7 @@ I'm **Fayaaz**, a Computer Science student @ Wilfrid Laurier University
 
 You can find me at:
 
-📧 ahme7375@mylaurier.ca <img src="./assets/linkd.png" height="16" style="vertical-align: middle;"/> [LinkedIn](https://www.linkedin.com/in/fayaaz-ahmed-5b9268295/)
+<a href="mailto:fayaaz.ahmed.20@gmail.com">Email</a> ◆ [LinkedIn](https://www.linkedin.com/in/fayaaz-ahmed-5b9268295/)
 
 Take a look at my unfinished projects while you're here 😼
 
