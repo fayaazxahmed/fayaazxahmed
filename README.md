@@ -2,9 +2,18 @@ I'm **Fayaaz**, a Computer Science student @ Wilfrid Laurier University
 
 You can find me at:
 
-<a href="mailto:fayaaz.ahmed.20@gmail.com">Email</a> ◆ [LinkedIn](https://www.linkedin.com/in/fayaaz-ahmed-5b9268295/)
+<p>
+  <a href="mailto:fayaaz.ahmed.20@gmail.com">
+    <img src="https://img.shields.io/badge/𝔼𝕞𝕒𝕚𝕝-000">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/fayaaz-ahmed-5b9268295">
+    <img src="https://img.shields.io/badge/𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟-000">
+  </a>
+   
+</p>
 
-Take a look at my unfinished projects while you're here 😼
+Check out my unfinished projects while you're here 😼
 
 <!--
 **fayaazxahmed/fayaazxahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
