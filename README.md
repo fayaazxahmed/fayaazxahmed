@@ -10,6 +10,10 @@ You can find me at:
   <a href="https://www.linkedin.com/in/fayaaz-ahmed-5b9268295">
     <img src="https://img.shields.io/badge/𝕃𝕚𝕟𝕜𝕖𝕕𝕀𝕟-000">
   </a>
+  <br>
+  <a href="https://devpost.com/fayaaz-ahmed-20">
+    <img src="https://img.shields.io/badge/𝔻𝕖𝕧𝕡𝕠𝕤𝕥-000">
+  </a>
    
 </p>
 
