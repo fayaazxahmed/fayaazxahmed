@@ -3,7 +3,7 @@ I'm **Fayaaz**, a Computer Science student @ Wilfrid Laurier University
 You can find me at:
 
 <p>
-  <a href="fayaazxahmed.vercel.app">
+  <a href="https://fayaazxahmed.vercel.app/">
     <img src="https://img.shields.io/badge/𝕎𝕖𝕓𝕤𝕚𝕥𝕖-000">
   </a>
   <br>
