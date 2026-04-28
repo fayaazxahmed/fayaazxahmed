@@ -1,5 +1,7 @@
 I'm **Fayaaz**, a Computer Science student @ Wilfrid Laurier University
 
+Currently interested in **low-level**, **backend**, and **infrastructure** + trying to break into **hardware**!
+
 You can find me at:
 
 <p>
@@ -17,8 +19,6 @@ You can find me at:
   <br>
    
 </p>
-
-Check out my unfinished projects while you're here 👾
 
 <!--
 **fayaazxahmed/fayaazxahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
